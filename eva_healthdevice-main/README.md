@@ -1,0 +1,3 @@
+## Eva: Wearable device and Health App
+
+We are building a wearable health device for the elderly. It's a whole ecosystem to monitor their health with a major focus on fall detection. In old age, the bones start getting weak. Nearly 3 million elderly people are severely injured every year (which sometimes causes death) due to falling. We wanted to solve this huge problem. There are a lot of cases, how Apple watch has saved countless lives by alerting the caretaker when the elderly fall. That's great but the Apple watch is a $400 device. We believe that staying healthy shouldn't be just for the people who can afford a four hundred dollar watch but for everyone. We are building this device for under 8 dollars!! This wearable device will be connected to a caretaker app. 
